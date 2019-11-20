@@ -1,0 +1,16 @@
+{
+  "name": "jsfileuploader",
+  "version": "2.2",
+  "description": "jQuery file uploader plugin",
+  "homepage": "",
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daniloesser/jsfileuploader.git"
+  },
+  "main": "dist/jquery.fileuploader.min.js",
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  }
+}
